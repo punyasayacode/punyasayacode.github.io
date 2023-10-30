@@ -1,0 +1,128 @@
+{
+  "wa" : "6288971837666",
+  "datas" : 
+  [
+    {
+      "id" : "PRJ006",
+      "type" : "basic",
+      "judul" : "Sistem Parkir - LARAVEL 8",
+      "harga" : "Rp. 60.000",
+      "terjual" : 8,
+      "kategori" : ["LARAVEL 8", "WEB"],
+      "live_url" : "https://sistem-parkir-lrv8.ps-code.my.id/",
+      "yt_url" : null,
+      "img_folder" : "assets/myimg/project/sistem-parkir-lrv8/",
+      "img_count" : 15,
+      "img_main" : "main",
+      "deskripsi" : "<p><b>Sistem Parkir Laravel 8 </b>Merupakan Aplikasi berbasis web yang ditunjukan untuk mengelola perhitungan biaya parkir. Aplikasi ini sangat sederhana dan ditujukan unruk para pelajar/orang awam yang baru belajar pemrograman web. Aplikasi ini dibangun dengan framework <b>laravel 8 </b>dan cocok untuk orang yang ingin/sedang mempelajari laravel.</p><p><b>Demo :</b></p><p><a href='https://sistem-parkir-lrv8.ps-code.my.id/' target='_blank'>https://sistem-parkir-lrv8.ps-code.my.id/</a><a href='https://sistem-parkir-lrv8.ps-code.my.id/' target='_blank'></a></p><p>Admin : username : admin, pw : admin</p><p>Petugas : username : petugas, pw : petugas<br><b><br></b></p>",
+      "fitur" : "<ol><li>Multilevel Login(Admin, Petugas)</li><li>Informatif Dashboard (Sudah ada grafik pendapatan per bulan juga)</li><li>Fitur Admin : <ul><li>Kelola Data Jenis Kendaraan (CRUD)</li><li>Kelola Data Petugas (CRUD)</li><li>Menginput Data Parkir Masuk</li><li>Mengedit dan Menghapus data Parkir Masuk</li><li>Menginput Data Parkir Keluar</li><li>Menghapus data Parkir Keluar</li><li>Mencetak Laporan dalam bentuk PDF</li></ul></li><li>Fitur Petugas : <ul><li>Melihat List Jenis Kendaraan (CRUD)</li><li>Menginput Data Parkir Masuk</li><li>Mengedit dan Menghapus data Parkir Masuk</li><li>Menginput Data Parkir Keluar</li><li>Menghapus data Parkir Keluar</li></ul></li></ol>", 
+      "teknologi" : [ "LARAVEL 8","Boostrap 4", "Template Stisla", "Sweetalert2", "Datatables"],
+      "keterangan" : [
+        "Aplikasi dijamin aman karena sudah di tes dan di pastikan tidak ada error.",
+        "Bisa custom sesuai kebutuhan, tetapi akan di kenakan biaya tambahan.",
+        "Cocok buat yang sedang belajar framework laravel."
+      ]
+    },
+    {
+      "id" : "PRJ005",
+      "type" : "basic",
+      "judul" : "Sistem Pengaduan Masyarakat - PHP NATIVE",
+      "harga" : "Rp. 70.000",
+      "terjual" : 8,
+      "kategori" : ["PHP NATIVE", "WEB"],
+      "live_url" : "https://pengaduan-masyarakat.ps-code.my.id/",
+      "yt_url" : null,
+      "img_folder" : "assets/myimg/project/pengaduan-masyarakat/",
+      "img_count" : 21,
+      "img_main" : "main",
+      "deskripsi" : "<p><b>Sistem Pengaduan Masyarakat&nbsp;</b>merupakan aplikasi berbasis web yang ditujukan untuk mempermudah masyarakat dalama melakuakan pengaduan sebuah masalah kepada pihak yang bertanggungjawab. Aplikasi ini dapat digunakan di kelurahan-keluarahan atau kecamatan-kecamatan agar masyarakatnya mudah dalam mengadukan sebuah maslah, seperti banjir, jalan berlubang, dll.&nbsp;</p><p>Aplikasi ini bisa langsung digunakan ataupun juga bisa untuk bahan belajar dan untuk tugas-tugas sekolah.</p><p><b>Demo :&nbsp;</b></p><p><b>- Admin &amp; petugas :&nbsp;</b><a href='https://pengaduan-masyarakat.ps-code.my.id/login_petugas.php' target='_blank'>https://pengaduan-masyarakat.ps-code.my.id/login_petugas.php</a>&nbsp;</p><p>- admin (username : admin, pw; admin)</p><p>- petugas (username: petugas, pw; petugas)</p><p><b>- Masyarakat :&nbsp;</b><a href='https://pengaduan-masyarakat.ps-code.my.id/' target='_blank'>https://pengaduan-masyarakat.ps-code.my.id/</a>&nbsp;(username dan password register sendiri)</p>",
+      "fitur" : "<ol><li>Multi level login(admin, petugas, dan user)</li><li>Informatif Dashboard</li><li>Fitur User : <ul><li>Login</li><li>Register</li><li>Buat pengaduan baru</li><li>Lihat riwayat pengaduannya</li></ul></li><li>Fitur Admin :<ul><li>Kelola data Kategori Pengaduan(CRUD)</li><li>Kelola data Masyarakat/user(CRUD)</li><li>Melihat semua data pengaduan baru</li><li>Melihat detail pengaduan yang baru masuk</li><li>Memberi Tanggapan pengaduan</li><li>Mengubah status pengaduan ke 'selesai'</li><li>Melihat semua riwayat pengaduan</li><li>Mengelola data Petugas(CRUD)</li><li>Mencetak Laporan Pengaduan</li></ul></li><li>Fitur Petugas :<ul><li>Melihat data Kategori Pengaduan</li><li>Melihat data Masyarakat/user</li><li>Melihat semua data pengaduan baru</li><li>Melihat detail pengaduan yang baru masuk</li><li>Memberi Tanggapan pengaduan</li><li>Mengubah status pengaduan ke 'selesai'</li><li>Melihat semua riwayat pengaduan</li></ul></li></ol>", 
+      "teknologi" : [ "PHP NATIVE","Boostrap 4", "Template Stisla", "Sweetalert2", "Datatables"],
+      "keterangan" : [
+        "Aplikasi dijamin aman karena sudah di tes dan di pastikan tidak ada error.",
+        "Bisa custom sesuai kebutuhan, tetapi akan di kenakan biaya tambahan."
+      ]
+    },
+    {
+      "id" : "PRJ004",
+      "type" : "premium",
+      "judul" : "Aplikasi Pengelolaan Laundry - PHP NATIVE",
+      "harga" : "Rp. 100.000",
+      "terjual" : 6,
+      "kategori" : ["PHP NATIVE", "WEB"],
+      "live_url" : "https://laundry.ps-code.my.id/login/index.php",
+      "yt_url" : null,
+      "img_folder" : "assets/myimg/project/laundry-native/",
+      "img_count" : 19,
+      "img_main" : "main",
+      "deskripsi" : "<p><b>Aplikasi Pengelolaan Laundry&nbsp;</b>dibuat untuk mempermudah anda yang memiliki usaha laundry untuk memanagement usaha laundry anda, Aplikasi ini juga sudah support multi outlet, jadi jika anda memliki banyak cabang juga akan sangat terbantu.</p><p>Aplikasi ini bisa langsung digunakan ataupun juga bisa untuk bahan belajar dan untuk tugas-tugas sekolah.</p><p><b>Demo :&nbsp;</b><a href='https://laundry.ps-code.my.id/login/index.php' target='_blank'>https://laundry.ps-code.my.id/login/index.php</a></p><p>- admin (username : admin, pw: admin)</p><p>- kasir (username: kasir, pw: kasir)</p><p>- owner (username: owner, pw: owner)</p>",
+      "fitur" : "<ol><li>Multilevel user (Admin, Kasir dan Owner)</li><li>Fitur Admin : <ul><li>Informatif Dashboard</li><li>CRUD data Outlet/Cabang</li><li>CRUD data harga paket per cabang/outletnya</li><li>CRUD data pelanggan&nbsp;</li><li>Menambah transaksi</li><li>CRUD data transaksi/cucian</li><li>Lihat detail cucian</li><li>cetak invoice</li><li>CRUD data user</li><li>Cetak laporan keuangan (bisa semua outlet atau hanya outlet tertentu saja)</li></ul></li><li>Fitur Kasir : <ul><li>Informatif Dashboard</li><li>CRUD data pelanggan&nbsp;</li><li>Menambah transaksi</li><li>CRUD data transaksi/cucian</li><li>Lihat detail cucian</li><li>cetak invoice</li></ul></li><li>Fitur Owner : <ul><li>Informatif Dashboard</li><li>Cetak laporan keuangan (bisa semua outlet atau hanya outlet tertentu saja)</li></ul></li></ol>", 
+      "teknologi" : [ "PHP NATIVE","Boostrap 4", "Template Stisla", "Sweetalert2", "DOMPdf", "Datatables"],
+      "keterangan" : [
+        " Aplikasi dijamin aman karena sudah di tes dan di pastikan tidak ada error.",
+        "Bisa custom sesuai kebutuhan, tetapi akan di kenakan biaya tambahan."
+      ]
+    },
+    {
+      "id" : "PRJ003",
+      "type" : "premium",
+      "judul" : "Simpel POS Warung - PHP NATIVE",
+      "harga" : "Rp. 150.000",
+      "terjual" : 9,
+      "kategori" : ["PHP NATIVE", "WEB"],
+      "img_folder" : "assets/myimg/project/toko-sembako/",
+      "live_url" : "https://toko.ps-code.ps-code.my.id/",
+      "yt_url" : "https://youtube.com",
+      "img_count" : 30,
+      "img_main" : "main",
+      "deskripsi" : "<p>lorem ipsum dolor amet</p>",
+      "fitur" : "<ol><li>Landing Page</li><li>Halaman Untuk menampikan list produk-produk</li><li>Multiuser (Owner dan kasir)</li><li>Informatif Dashboard yang di lengkapi dengan grafik ststistik penjualan dan produk terlaris</li><li>CRUD data kategori (Owner)</li><li>CRUD data user/kasir (Owner)</li><li>CRUD data produk (Owner, Kasir)</li><li>Tambahkan Diskon produk (Owner)</li><li>Tambah Stok Masuk (Owner)</li><li>Tambah Stok Keluar (Owner)</li><li>Tambah Transaksi (Owner, Kasir)</li><li>Lihat Data Transaksi (Owner, Kasir)</li><li>Lihat Detail Transaksi (Owner, Kasir)</li><li>Cetak Invoice Transaksi (Owner, Kasir)</li><li>Cetak Laporan penualan dan pembelian stok (Owner)</li><li>Edit Profile (Owner, Kasir)</li></ol>", 
+      "teknologi" : [ "PHP NATIVE","Boostrap 5", "Template Mazer Admin", "toastify", "DOMPdf", "Datatables", "ChartJS"],
+      "keterangan" : [
+        " Aplikasi dijamin aman karena sudah di tes dan di pastikan tidak ada error.",
+        "Bisa custom sesuai kebutuhan, tetapi akan di kenakan biaya tambahan."
+      ]
+    },
+    {
+      "id" : "PRJ002",
+      "type" : "basic",
+      "judul" : "Aplikasi Pemilihan Osis - CI4",
+      "harga" : "Rp. 75.000",
+      "terjual" : 8,
+      "kategori" : ["CI4", "WEB"],
+      "live_url" : "https://e-voting.ps-code.my.id",
+      "yt_url" : null,
+      "img_folder" : "assets/myimg/project/e-voting/",
+      "img_count" : 21,
+      "img_main" : "main",
+      "deskripsi" : "<p><b>Aplikasi Pemilihan Osis -CI4 </b>merupakan aplikasi berbasis web yang ditujukan untuk mempermudah dalam pemilihan ketua OSIS di suatu sekolah. Aplikasi ini dapat mempermudah dalam proses pemilihan suara dan juga dalam pengitungan hasil.&nbsp;</p><p>Aplikasi ini bisa langsung digunakan dalam pemilihan langsung ataupun juga bisa untuk bahan belajar dan untuk tugas-tugas.</p><p><b>Demo :&nbsp;</b></p><p><b>- Admin :&nbsp;</b><a href='https://e-voting.ps-code.my.id/loginAdmin' target='_blank'>https://e-voting.ps-code.my.id/loginAdmin</a>&nbsp;(username : admin, pw :admin)</p><p><b>- Peserta :&nbsp;</b><a href='https://e-voting.ps-code.my.id/' target='_blank'>https://e-voting.ps-code.my.id/</a>&nbsp;(username dan password dapat dilihat di halaman admin)</p><p>*note : aplikasi ini dibangun dengan CI4, dan jika anda berniat ingin memakai aplikasi ini secara real, pastikan anda punya programmer yang bisa CI4 juga</p>",
+      "fitur" : "<ol><li>Multiuser (Admin dan Siswa)</li><li>Fitur Admin : <ul><li>Informatif Dashboard</li><li>Memulai dan memberhentikan acara pemilihan</li><li>CRUD data kandidat</li><li>CRUD data peserta/siswa</li><li>Upload excel untuk insert data peserta</li><li>Lihat Hasil Voting</li><li>Cetak laporan kandidat</li><li>Cetak laporan peserta (bisa pdf atau excel)</li><li>Cetak laporan hasil pemilihan</li><li>Edit Profile</li><li>Setting nama dan logo sekolah</li></ul></li><li>Fitur Siswa : <ul><li>Login</li><li>Memilih kandidat osis</li><li>Jika sudah memilih, siswa otomatis tidak bisa melakukan pemilihan lagi</li></ul></li></ol>", 
+      "teknologi" : [ "CI4","Boostrap 4", "Template Stisla", "Sweetalert2", "DOMPdf", "ChartJS"],
+      "keterangan" : [
+        " Aplikasi dijamin aman karena sudah di tes(Dites di windows 10).",
+        " Direkomendasikan untuk tugas atau bahan belajar"
+      ]
+    },
+    {
+      "id" : "PRJ001",
+      "type" : "basic",
+      "judul" : "Pengelolaan Kas Masjid - PHP NATIVE",
+      "harga" : "Rp. 50.000",
+      "terjual" : 7,
+      "kategori" : ["PHP NATIVE", "WEB"],
+      "live_url" : "https://kas-masjid.ps-code.my.id/login.php",
+      "yt_url" : null,
+      "img_folder" : "assets/myimg/project/kas-masjid-native/",
+      "img_count" : 21,
+      "img_main" : "main",
+      "deskripsi" : "<p><b>Aplikasi Pengelolaan Kas Majid </b>merupakan aplikasi berbasis web sederhana yang dapat digunakan untuk mengelola keuangan/kas sebuah masid. Aplikasi ini dapat digunakan untuk melakukan pencatatan kas masuk dan keluar serta melihat rekapitulasi keuangan juga.</p><p>Aplikasi ini cocok untuk anda yang sedang belajar pemrograman web atau untuk tugas-tugas sekolah karena simpel dan mudah dipahami.</p><p><b>Demo :</b></p><p><a href='https://kas-masjid.ps-code.my.id/login.php' target='_blank'>https://kas-masjid.ps-code.my.id/login.php</a><a href='https://kas-masjid.ps-code.my.id/login.php' target='_blank'></a></p><p>- Admin :&nbsp;</p><ul><li>Username : admin</li><li>Pw : admin</li></ul><p>*Untuk user lain bisa coba tambah sendiri</p>",
+      "fitur" : "<ol><li>Multilevel login(admin, takmir, jamaah)</li><li>login dan register untuk jamaah baru</li><li>CRUD data kas masuk(Admin, Takmir)</li><li>CRUD data kas keluar(Admin, Takmir)</li><li>Lihat data rekapitulasi (Admin, Takmir, Jamaah)</li><li>Cetak laporan kas masuk, kas keluar, rekapitulasi (Admin, Takmir, Jamaah)</li><li>Management user (Admin)</li><li>Edit profile (Admin, Takmir, Jamaah)</li><li>informatif dashboard</li><li>Untuk Jamaah hanya bisa lihat semua data dan mencetak laporan saja</li></ol>", 
+      "teknologi" : ["PHP NATIVE", "Boostrap 4", "Template SB Admin 2", "Sweetalert2", "DOMPdf", "Datatables"],
+      "keterangan" : [
+        "Aplikasi dijamin aman karena sudah di tes dan di pastikan tidak ada error.",
+        "Kode dilengkapi dengan komentar-komentar sehingga mudah dipahami.",
+        "Bisa custom sesuai kebutuhan, tetapi akan di kenakan biaya tambahan."
+      ]
+    }
+  ]
+}
